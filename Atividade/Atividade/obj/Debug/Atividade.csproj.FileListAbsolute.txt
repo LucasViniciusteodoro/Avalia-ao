@@ -1,0 +1,16 @@
+C:\Users\Aluno\source\repos\Atividade\Atividade\bin\Debug\Database1.mdf
+C:\Users\Aluno\source\repos\Atividade\Atividade\bin\Debug\Database1_log.ldf
+C:\Users\Aluno\source\repos\Atividade\Atividade\bin\Debug\Atividade.exe.config
+C:\Users\Aluno\source\repos\Atividade\Atividade\bin\Debug\Atividade.exe
+C:\Users\Aluno\source\repos\Atividade\Atividade\bin\Debug\Atividade.pdb
+C:\Users\Aluno\source\repos\Atividade\Atividade\obj\Debug\Atividade.csprojAssemblyReference.cache
+C:\Users\Aluno\source\repos\Atividade\Atividade\obj\Debug\Atividade.FrmCliente.resources
+C:\Users\Aluno\source\repos\Atividade\Atividade\obj\Debug\Atividade.Properties.Resources.resources
+C:\Users\Aluno\source\repos\Atividade\Atividade\obj\Debug\Atividade.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\Atividade\Atividade\obj\Debug\Atividade.exe
+C:\Users\Aluno\source\repos\Atividade\Atividade\obj\Debug\Atividade.pdb
+C:\Users\Aluno\source\repos\Atividade\Atividade\obj\Debug\Atividade.FrmProduto.resources
+C:\Users\Aluno\source\repos\Atividade\Atividade\obj\Debug\Atividade.FrmLogin.resources
+C:\Users\Aluno\source\repos\Atividade\Atividade\obj\Debug\Atividade.FrmPrincipal.resources
+C:\Users\Aluno\source\repos\Atividade\Atividade\obj\Debug\Atividade.FrmSplash.resources
+C:\Users\Aluno\source\repos\Atividade\Atividade\obj\Debug\Atividade.FrmVenda.resources
